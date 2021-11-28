@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="61">
+	<author>loki_79</author>
+    <version>1.0.0.0</version>
+	<title>
+        <en>Free Labour</en>
+        <de>Free Labour</de>
+        <fr>Free Labour</fr>
+    </title>
+    <description>
+<en><![CDATA[
+]]>
+</en>
+<de><![CDATA[
+]]>
+</de>
+<fr><![CDATA[
+]]>
+</fr>
+    </description>
+	
+	<multiplayer supported="true" />
+	<iconFilename>modIcon.dds</iconFilename>
+	<extraSourceFiles>
+		<sourceFile filename="FreeLabour.lua" />
+	</extraSourceFiles>
+</modDesc>
