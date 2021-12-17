@@ -16,6 +16,7 @@ function FreeLabour:loadMap(name)
 	
 	AIJob.getPricePerMs = Utils.overwrittenFunction(AIJob.getPricePerMs, FreeLabour.getPricePerMs)
 	AIJobConveyor.getPricePerMs = Utils.overwrittenFunction(AIJobConveyor.getPricePerMs, FreeLabour.getPricePerMs)
+	AIJobFieldWork.getPricePerMs = Utils.overwrittenFunction(AIJobFieldWork.getPricePerMs, FreeLabour.getPricePerMs)
 	
 	self.initialised = false
 end

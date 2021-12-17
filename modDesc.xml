@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="61">
 	<author>loki_79</author>
-    <version>1.0.0.0</version>
+    <version>1.0.1.0</version>
 	<title>
         <en>Free Labour</en>
         <de>Kostenloser Helfer</de>
@@ -13,6 +13,9 @@
 Features:
 - There is no payment for workers to perform field jobs or driving tasks
 - You will still be charged for any fuel, seeds or fertiliser that they use
+
+Changelog:
+v1.0.1.0 - Updated for patch version 1.2
 ]]>
 </en>
 <de><![CDATA[Mit dieser Mod kosten Ihre Helfer Sie kein Geld mehr.
@@ -20,6 +23,9 @@ Features:
 Merkmale:
 - Es gibt keine Bezahlung für Helfer, die Feldarbeiten oder Fahraufgaben ausführen
 - Die Kosten für Treibstoff, Saatgut und Düngemittel, die sie verwenden, werden Ihnen trotzdem in Rechnung gestellt
+
+Changelog:
+v1.0.1.0 - Aktualisiert für Patch Version 1.2
 ]]>
 </de>
 <fr><![CDATA[Avec ce mod vos ouvriers ne vous coûtent plus d'argent.
@@ -27,6 +33,9 @@ Merkmale:
 Caractéristiques:
 - Les travailleurs ne sont pas payés pour effectuer des travaux dans les champs ou des tâches de conduite
 - Vous serez toujours facturé pour le carburant, les semences ou les engrais qu'ils utilisent
+
+Changelog:
+v1.0.1.0 - Mise à jour pour le patch version 1.2
 ]]>
 </fr>
     </description>
