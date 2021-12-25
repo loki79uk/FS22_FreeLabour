@@ -6,8 +6,9 @@ FreeLabour = {}
 
 addModEventListener(FreeLabour)
 
-function FreeLabour:getPricePerMs()
+function FreeLabour:getPricePerMs(superFunc)
 	--print("Free Labour!")
+	superFunc(self)
     return 0
 end
 
