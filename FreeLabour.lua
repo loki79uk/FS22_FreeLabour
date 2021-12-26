@@ -35,8 +35,13 @@ function FreeLabour:draw()
 end
 
 function FreeLabour:update(dt)
-	if not self.initialised then
-		print("***FreeLabour is loaded***")
+	if self.initialised ~= nil then
+		if not self.initialised then
+			print("***FreeLabour is loaded***")
+			self.initialised = true
+		end
+	else
+		print("***FreeLabour could not overwrite functions***")
 		self.initialised = true
 	end
 end
